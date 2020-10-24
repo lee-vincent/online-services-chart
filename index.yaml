@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  online-services:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2020-10-24T15:35:49.4515376-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 82f7df0aa23ea967a3071e95c7ed328c024a93fcb51db0bbcbaa5017695ce305
+    name: online-services
+    type: application
+    urls:
+    - https://lee-vincent.github.io/online-services-chart/online-services-0.0.8.tgz
+    version: 0.0.8
+generated: "2020-10-24T15:35:49.4464281-04:00"
